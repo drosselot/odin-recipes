@@ -1,0 +1,25 @@
+h1,
+li {
+    color: white;
+}
+
+h1,
+h3 {
+    background-color: black;
+    text-align: center;
+}
+
+h3 {
+    color: lightgray;
+}
+
+ul {
+    background-color: grey;
+}
+a,
+li {
+    text-decoration: none;
+}
+li {
+    text-align: left;
+}
